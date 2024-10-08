@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog-MadAnd1</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Blog-MadAnd1</description>
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primer Post</title>
+      <link>http://example.org/posts/primer-post/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/primer-post/</guid>
+      <description>Hola guacamole </description>
+    </item>
+    <item>
+      <title>Mi segundo Post</title>
+      <link>http://example.org/posts/segundo-post/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/segundo-post/</guid>
+      <description>Hola </description>
+    </item>
+    <item>
+      <title>Mi tercer post</title>
+      <link>http://example.org/posts/tercer-post/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/tercer-post/</guid>
+      <description>holi </description>
+    </item>
+    <item>
+      <title>Quién Soy</title>
+      <link>http://example.org/quien-soy/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/quien-soy/</guid>
+      <description>Quién Soy ¡Hola! Soy un apasionado de la tecnología y la aviación, dos campos que me han fascinado desde que tengo memoria. Me encanta seguir las tendencias tecnológicas y la precisión de la aviación, tanto a nivel técnico como operativo.
+Mi vida dio un giro hace tres años cuando descubrí el mundo de la administración de redes. Esta nueva pasión me ha permitido profundizar en un área que combina mis intereses por la tecnología y la resolución de problemas.</description>
+    </item>
+    <item>
+      <title>Trayectoria Académica</title>
+      <link>http://example.org/trayectoria-academica/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/trayectoria-academica/</guid>
+      <description>Aquí detallo mis estudios y formación académica.
+Administración de Sistemas Informáticos en Red IES Gonzalo Nazareno
+Ingeniería Informática
+Sept. 2023 - Mar. 2025
+Bootcamp Cloud Computing Administrator Escuela de Organización Industrial
+Administración/Administrador de Redes y Sistemas
+Feb. 2023 - Jun. 2023
+Contenidos Fundamentos de Sistemas en Red Fundamentos de Seguridad Administración de Windows Server AZ-900T1: Azure Fundamentals MS-700: Managing Microsoft Teams AZ-104: Microsoft Azure Administrator Associate Prácticas en laboratorios para configurar, manejar y administrar sistemas en red, Microsoft Teams y Azure Aptitudes Conjunto de protocolo de Internet (TCP/IP) Seguridad de Cloud Administración en la nube Microsoft Azure Administración Computación en la nube Senior Technician in Aircraft Aeromechanical Maintenance ADA ITS</description>
+    </item>
+    <item>
+      <title>Trayectoria Profesional</title>
+      <link>http://example.org/trayectoria-profesional/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/trayectoria-profesional/</guid>
+      <description>Conductor Junta de Andalucía
+Jornada parcial
+Jun. 2024 - Actualidad · 5 meses
+Sevilla, Andalucía, España · Presencial
+CTF Player Hack The Box
+Profesional independiente
+Jun. 2022 - Actualidad · 2 años 5 meses
+En remoto
+Descripción Pentesting y hacking ético.
+Proyectos Destacados: Participación en múltiples CTFs (Capture The Flag) que abarcan diversas áreas de ciberseguridad. Aptitudes Pruebas de penetración Ciberseguridad Programación Interconexión en red Formación Técnico de laboratorio mecánico Laboratorio Diesel</description>
+    </item>
+  </channel>
+</rss>

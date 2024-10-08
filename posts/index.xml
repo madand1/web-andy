@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Blog-MadAnd1</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Blog-MadAnd1</description>
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primer Post</title>
+      <link>http://example.org/posts/primer-post/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/primer-post/</guid>
+      <description>Hola guacamole </description>
+    </item>
+    <item>
+      <title>Mi segundo Post</title>
+      <link>http://example.org/posts/segundo-post/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/segundo-post/</guid>
+      <description>Hola </description>
+    </item>
+    <item>
+      <title>Mi tercer post</title>
+      <link>http://example.org/posts/tercer-post/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/tercer-post/</guid>
+      <description>holi </description>
+    </item>
+  </channel>
+</rss>
