@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://liveinvietnam.netlify.app/posts/training/</loc>
+    <loc>https://liveinvietnam.netlify.app/posts/entrenamiento/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liveinvietnam.netlify.app/posts/segundo-post/</loc>
@@ -17,7 +17,16 @@
     <loc>https://liveinvietnam.netlify.app/quien-soy/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liveinvietnam.netlify.app/posts/vietnam/</loc>
+    <loc>https://liveinvietnam.netlify.app/posts/bimba/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liveinvietnam.netlify.app/posts/byron/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liveinvietnam.netlify.app/posts/orus/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liveinvietnam.netlify.app/posts/vietnam/vietnam/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liveinvietnam.netlify.app/trayectoria-academica/</loc>
@@ -25,8 +34,6 @@
   </url><url>
     <loc>https://liveinvietnam.netlify.app/trayectoria-profesional/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liveinvietnam.netlify.app/posts/prueba/</loc>
   </url><url>
     <loc>https://liveinvietnam.netlify.app/categories/</loc>
   </url><url>
