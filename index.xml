@@ -1,47 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog-MadAnd1</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Blog-MadAnd1</description>
+    <title>I.E.S. Vietnam</title>
+    <link>https://liveinvietnam.netlify.app/</link>
+    <description>Recent content on I.E.S. Vietnam</description>
     <generator>Hugo -- 0.112.4</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liveinvietnam.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mi Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/primer-post/</guid>
-      <description>Hola guacamole </description>
+      <title>Cómo Entrenar a Diario y Alimentarte: Conseguirás Salir Sano del IES Gonzalo Nazareno</title>
+      <link>https://liveinvietnam.netlify.app/posts/training/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://liveinvietnam.netlify.app/posts/training/</guid>
+      <description>Introducción ¡Atención, guerreros! La vida en el IES Gonzalo Nazareno puede ser dura, pero con una rutina diaria de entrenamiento y una alimentación adecuada, no solo sobrevivirás, sino que saldrás más fuerte y más sano que nunca. Aquí te dejo un plan de acción que te ayudará a mantenerte en forma tanto física como mentalmente.
+1. Establece un Plan de Entrenamiento Diario La clave para mantenerse en forma en este campo de batalla es la disciplina.</description>
     </item>
     <item>
-      <title>Mi segundo Post</title>
-      <link>http://example.org/posts/segundo-post/</link>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/segundo-post/</guid>
-      <description>Hola </description>
-    </item>
-    <item>
-      <title>Mi tercer post</title>
-      <link>http://example.org/posts/tercer-post/</link>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/tercer-post/</guid>
-      <description>holi </description>
+      <title>Cómo la Historia de Warhammer 40k Salvó Todo Esto</title>
+      <link>https://liveinvietnam.netlify.app/posts/segundo-post/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://liveinvietnam.netlify.app/posts/segundo-post/</guid>
+      <description>La narrativa épica de Warhammer 40,000 no solo ha cautivado a millones de fans en todo el mundo, sino que también ofrece lecciones valiosas sobre la resiliencia, la lucha y el sacrificio en tiempos de oscuridad. En un universo donde la humanidad está al borde de la extinción, los eventos de Warhammer 40k nos enseñan que la esperanza y la determinación pueden prevalecer, incluso en las circunstancias más adversas.</description>
     </item>
     <item>
       <title>Quién Soy</title>
-      <link>http://example.org/quien-soy/</link>
+      <link>https://liveinvietnam.netlify.app/quien-soy/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://liveinvietnam.netlify.app/quien-soy/</guid>
+      <description>¡Atención, camaradas! Soy un soldado en el campo de batalla, con un espíritu apasionado por la tecnología y la aviación. Desde que tengo memoria, estos dos campos me han cautivado, cada uno como un aliado en esta guerra constante. Me fascina seguir las tendencias tecnológicas y admirar la precisión de la aviación, tanto en su funcionamiento técnico como en las operaciones de combate.
+Todo cambió hace tres años, cuando me adentré en el mundo de la administración de redes, una trinchera donde la lógica y la estrategia se unen.</description>
+    </item>
+    <item>
+      <title>Pasos para sobrevivir a Vietnam</title>
+      <link>https://liveinvietnam.netlify.app/posts/vietnam/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/quien-soy/</guid>
-      <description>Quién Soy ¡Hola! Soy un apasionado de la tecnología y la aviación, dos campos que me han fascinado desde que tengo memoria. Me encanta seguir las tendencias tecnológicas y la precisión de la aviación, tanto a nivel técnico como operativo.
-Mi vida dio un giro hace tres años cuando descubrí el mundo de la administración de redes. Esta nueva pasión me ha permitido profundizar en un área que combina mis intereses por la tecnología y la resolución de problemas.</description>
+      <guid>https://liveinvietnam.netlify.app/posts/vietnam/</guid>
+      <description>Instrucciones para Sobrevivir en el IES Gonzalo Nazareno Bienvenidos a la Aventura ¡Hola valientes! Si estás leyendo esto, significa que te encuentras en el IES Gonzalo Nazareno durante una situación extrema. ¡No entres en pánico! Aquí tienes una guía sobre cómo sobrevivir y salir ileso de esta experiencia que podría parecerse a la guerra de Vietnam.
+1. Mantén la Calma Lo primero y más importante es mantener la calma. El pánico solo te llevará a tomar decisiones apresuradas.</description>
     </item>
     <item>
       <title>Trayectoria Académica</title>
-      <link>http://example.org/trayectoria-academica/</link>
+      <link>https://liveinvietnam.netlify.app/trayectoria-academica/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/trayectoria-academica/</guid>
+      <guid>https://liveinvietnam.netlify.app/trayectoria-academica/</guid>
       <description>Aquí detallo mis estudios y formación académica.
 Administración de Sistemas Informáticos en Red IES Gonzalo Nazareno
 Ingeniería Informática
@@ -53,9 +55,9 @@ Contenidos Fundamentos de Sistemas en Red Fundamentos de Seguridad Administraci�
     </item>
     <item>
       <title>Trayectoria Profesional</title>
-      <link>http://example.org/trayectoria-profesional/</link>
+      <link>https://liveinvietnam.netlify.app/trayectoria-profesional/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/trayectoria-profesional/</guid>
+      <guid>https://liveinvietnam.netlify.app/trayectoria-profesional/</guid>
       <description>Conductor Junta de Andalucía
 Jornada parcial
 Jun. 2024 - Actualidad · 5 meses
@@ -66,6 +68,13 @@ Jun. 2022 - Actualidad · 2 años 5 meses
 En remoto
 Descripción Pentesting y hacking ético.
 Proyectos Destacados: Participación en múltiples CTFs (Capture The Flag) que abarcan diversas áreas de ciberseguridad. Aptitudes Pruebas de penetración Ciberseguridad Programación Interconexión en red Formación Técnico de laboratorio mecánico Laboratorio Diesel</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://liveinvietnam.netlify.app/posts/prueba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://liveinvietnam.netlify.app/posts/prueba/</guid>
+      <description>Esto es una prueba </description>
     </item>
   </channel>
 </rss>
